@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on WEPIS</title>
-    <link>https://wepis.github.io/post/</link>
+    <link>https://muhammadharjun.github.io/post/</link>
     <description>Recent content in Posts on WEPIS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Feb 2021 00:06:15 +0700</lastBuildDate><atom:link href="https://wepis.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Feb 2021 00:06:15 +0700</lastBuildDate><atom:link href="https://muhammadharjun.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Uji Coba Hugo</title>
-      <link>https://wepis.github.io/post/uji-coba-hugo/</link>
+      <link>https://muhammadharjun.github.io/post/uji-coba-hugo/</link>
       <pubDate>Tue, 16 Feb 2021 00:06:15 +0700</pubDate>
       
-      <guid>https://wepis.github.io/post/uji-coba-hugo/</guid>
+      <guid>https://muhammadharjun.github.io/post/uji-coba-hugo/</guid>
       <description>Ini adalah uji coba pertama saya menggunakan Hugo</description>
     </item>
     
